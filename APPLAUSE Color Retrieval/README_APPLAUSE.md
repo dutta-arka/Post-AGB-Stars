@@ -6,4 +6,4 @@ This set of code does the following: For a given set of GAIA stars,
 
 
 ## Instructions to Run The Code
-Combined files and individual files are uploaded in this google drive folder: 
+Combined files and individual files are uploaded in this google drive folder: https://drive.google.com/drive/folders/11U3avUIoD8SukXdUqJwNDFF9ZQ19ys6r?usp=sharing
