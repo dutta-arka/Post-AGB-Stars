@@ -1,0 +1,702 @@
+plate_id,plate_num,emulsion,filter,date_orig,observatory
+63651,ES01593   ,Kodak 103a-E,RG2(=630),1976-08-14,European Southern Observatory
+63652,ES01595   ,Kodak 098-04,RG2(=630),1976-08-14,European Southern Observatory
+63653,ES01637   ,Kodak 103a-E,RG2(=630),1976-09-14,European Southern Observatory
+63654,ES01638   ,Kodak 103a-E,RG2(=630),1976-09-14,European Southern Observatory
+63655,ES01596   ,,RG2(=630),1976-08-15,European Southern Observatory
+63686,ES02784   ,Kodak IIIa-F,RG2(=630),1978-05-07,European Southern Observatory
+63687,ES02788   ,Kodak IIIa-F,RG2(=630),1978-05-08,European Southern Observatory
+63689,ES02706   ,Kodak IIa-O,GG13(=385),1978-03-07,European Southern Observatory
+63690,ES02812   ,Kodak IIIa-F,RG2(=630),1978-06-07,European Southern Observatory
+63691,ES02890   ,Kodak 098-04,RG2(=630),1978-08-27,European Southern Observatory
+63694,ES02957   ,Kodak 098-04,RG2(=630),1978-09-07,European Southern Observatory
+63695,ES02961   ,Kodak 098-04,RG2(=630),1978-09-08,European Southern Observatory
+63697,ES04037   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1980-01-12,European Southern Observatory
+63698,ES03720   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1980-05-10,European Southern Observatory
+63699,ES03721   ,Kodak IIIa-F,RG2(=630),1980-05-10,European Southern Observatory
+63700,ES03722   ,Kodak IIIa-F,RG2(=630),1980-05-10,European Southern Observatory
+63701,ES03738   ,Kodak IIa-O,GG7(=475),1980-05-21,European Southern Observatory
+63702,ES03742   ,Kodak IIa-O,GG7(=475),1980-05-22,European Southern Observatory
+63703,ES03745   ,Kodak 098-04,RG2(=630),1980-05-23,European Southern Observatory
+63704,ES03746   ,Kodak 098-04,RG2(=630),1980-05-23,European Southern Observatory
+63706,ES03749   ,Kodak 098-04,RG2(=630),1980-05-24,European Southern Observatory
+63707,ES04815   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1980-05-24,European Southern Observatory
+63708,ES03770   ,Kodak 098-04,RG2(=630),1980-06-16,European Southern Observatory
+63709,ES03771   ,Kodak IIa-O,GG7(=475),1980-06-17,European Southern Observatory
+63710,ESV0003   ,Kodak IIa-D,66495#4,1980-06-20,European Southern Observatory
+63711,ESV0004   ,Kodak IIa-D,66495#4,1980-06-20,European Southern Observatory
+63712,ESV0005   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63713,ESV0006   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63714,ESV0007   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63715,ESV0008   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63716,ESV0009   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63717,ESV0010   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63718,ESV0011   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63719,ESV0012   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63720,ESV0013   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63721,ESV0014   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63722,ESV0015   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63723,ESV0016   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63724,ESV0017   ,Kodak 098-04,OG5(=550),1980-06-21,European Southern Observatory
+63728,ES04040   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1981-01-13,European Southern Observatory
+63729,ES04041   ,Kodak IIIa-F (hyp.-sens.),UG1,1981-01-13,European Southern Observatory
+63730,ES04042   ,Kodak IIIa-F (hyp.-sens.),UG1,1981-01-13,European Southern Observatory
+63731,ES04044   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1981-01-18,European Southern Observatory
+63732,ES04045   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1981-01-18,European Southern Observatory
+63733,ES04046   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1981-01-18,European Southern Observatory
+63734,ES04085   ,Kodak IIIa-J (hyp.-sens.),UG1,1981-01-31,European Southern Observatory
+63735,ES04205   ,Kodak IIIa-F,RG2(=630),1981-05-14,European Southern Observatory
+63736,ES04206   ,Kodak IIIa-F,RG2(=630),1981-05-14,European Southern Observatory
+63737,ES04207   ,Kodak IIIa-F,RG2(=630),1981-05-14,European Southern Observatory
+63738,ES04578   ,Kodak IIa-O,UG1,1982-01-19,European Southern Observatory
+63739,ES04601   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1982-01-29,European Southern Observatory
+63740,ES04611   ,Kodak 098-04,GG14(=495),1982-02-01,European Southern Observatory
+63741,ES04612   ,Kodak IIIa-F,GG14(=495),1982-02-01,European Southern Observatory
+63742,ES04628   ,Kodak IIIa-J (hyp.-sens.),UG1,1982-02-11,European Southern Observatory
+63743,ES04644   ,Kodak IIa-O,UG1,1982-02-16,European Southern Observatory
+63744,ES04646   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1982-02-17,European Southern Observatory
+63745,ES04647   ,Kodak 098-04,RG2(=630),1982-02-17,European Southern Observatory
+63746,ES04657   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1982-02-22,European Southern Observatory
+63747,ES04708   ,Kodak IIa-O,UG1,1982-03-21,European Southern Observatory
+63748,ES04816   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1982-05-24,European Southern Observatory
+63749,ES04817   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1982-05-24,European Southern Observatory
+63750,ES04818   ,Kodak IIa-O,UG1,1982-05-24,European Southern Observatory
+63751,ES04829   ,Kodak 098-04,RG2(=630),1982-06-19,European Southern Observatory
+63754,ES04835   ,Kodak IIa-O,UG1,1982-08-08,European Southern Observatory
+63755,ES04838   ,Kodak IIa-O,UG1,1982-08-09,European Southern Observatory
+63756,ES04851   ,Kodak IIa-O,GG7(=475),1982-08-19,European Southern Observatory
+63757,ES04852   ,Kodak 098-04,RG2(=630),1982-08-19,European Southern Observatory
+63758,ES04854   ,Kodak 098-04,RG2(=630),1982-08-20,European Southern Observatory
+63759,ES04856   ,Kodak 098-04,RG2(=630),1982-08-21,European Southern Observatory
+63760,ES04857   ,Kodak 098-02,RG2(=630),1982-08-21,European Southern Observatory
+63761,ES04858   ,Kodak 098-04,RG2(=630),1982-08-22,European Southern Observatory
+63762,ES04859   ,Kodak IIa-O,GG7(=475),1982-08-22,European Southern Observatory
+63763,ES04861   ,Kodak 098-04,RG2(=630),1982-08-23,European Southern Observatory
+63764,ES00225   ,Kodak 098-04,OG5(=550),1982-08-23,European Southern Observatory
+63765,ES00226   ,Kodak 098-04,OG5(=550),1982-08-23,European Southern Observatory
+63766,ES00227   ,Kodak 098-04,OG5(=550),1982-08-23,European Southern Observatory
+63767,ES00228   ,Kodak 098-04,OG5(=550),1982-08-23,European Southern Observatory
+63768,ES00229   ,Kodak 098-04,OG5(=550),1982-08-23,European Southern Observatory
+63769,ES00230   ,Kodak 098-04,OG5(=550),1982-08-23,European Southern Observatory
+63770,ES00231   ,Kodak 098-04,OG5(=550),1982-08-23,European Southern Observatory
+63771,ES00232   ,Kodak 098-04,OG5(=550),1982-08-23,European Southern Observatory
+63772,ES04862   ,Kodak 098-04,RG2(=630),1982-08-23,European Southern Observatory
+63773,ES04863   ,Kodak 098-04,RG2(=630),1982-08-23,European Southern Observatory
+63774,ES04865   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1982-09-13,European Southern Observatory
+63775,ES04866   ,Kodak IIIa-F,RG2(=630),1982-09-13,European Southern Observatory
+63776,ES00244   ,Kodak 098-04,OG5(=550),1982-11-07,European Southern Observatory
+63777,ES00245   ,Kodak 098-04,OG5(=550),1982-11-07,European Southern Observatory
+63778,ES00248   ,Kodak 098-04,OG5(=550),1982-11-08,European Southern Observatory
+63779,ES00249   ,Kodak 098-04,OG5(=550),1982-11-08,European Southern Observatory
+63780,ES00250   ,Kodak 098-04,OG5(=550),1982-11-08,European Southern Observatory
+63781,ES00251   ,Kodak 098-04,OG5(=550),1982-11-08,European Southern Observatory
+63782,ES00252   ,Kodak 098-04,OG5(=550),1982-11-08,European Southern Observatory
+63783,ES00253   ,Kodak 098-04,OG5(=550),1982-11-08,European Southern Observatory
+63784,ES00257   ,Kodak 098-04,OG5(=550),1982-11-08,European Southern Observatory
+63785,ES00258   ,Kodak 098-04,OG5(=550),1982-11-08,European Southern Observatory
+63786,ES00260   ,Kodak 098-04,OG5(=550),1982-11-09,European Southern Observatory
+63787,ES00261   ,Kodak 098-04,OG5(=550),1982-11-09,European Southern Observatory
+63788,ES00263   ,Kodak 098-04,OG5(=550),1982-11-09,European Southern Observatory
+63789,ES00264   ,Kodak 098-04,OG5(=550),1982-11-09,European Southern Observatory
+63790,ES00265   ,Kodak 098-04,OG5(=550),1982-11-09,European Southern Observatory
+63791,ES00266   ,Kodak 098-04,OG5(=550),1982-11-09,European Southern Observatory
+63792,ES00275   ,Kodak 098-04,OG5(=550),1982-11-10,European Southern Observatory
+63793,ES00276   ,Kodak 098-04,OG5(=550),1982-11-10,European Southern Observatory
+63794,ES00277   ,Kodak 098-04,OG5(=550),1982-11-10,European Southern Observatory
+63795,ES00278   ,Kodak 098-04,OG5(=550),1982-11-10,European Southern Observatory
+63802,ES05734a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1984-08-15,European Southern Observatory
+63803,ES05735a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1984-08-15,European Southern Observatory
+63804,ES05736a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1984-08-15,European Southern Observatory
+63805,ES05737a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1984-08-15,European Southern Observatory
+63806,ES06523a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1986-05-31,European Southern Observatory
+63807,ES06524a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1986-05-31,European Southern Observatory
+63808,ES06528a  ,Kodak IIIa-F,RG2(=630),1986-06-01,European Southern Observatory
+63809,ES06529a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1986-06-01,European Southern Observatory
+63810,ES06530a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1986-06-01,European Southern Observatory
+63811,ES02266   ,Kodak 098-04,OG5(=550),1986-07-12,European Southern Observatory
+63812,ES02267   ,Kodak 098-04,OG5(=550),1986-07-12,European Southern Observatory
+63813,ES02268   ,Kodak 098-04,OG5(=550),1986-07-12,European Southern Observatory
+63814,ES02269   ,Kodak 098-04,OG5(=550),1986-07-12,European Southern Observatory
+63815,ES02270   ,Kodak 098-04,OG5(=550),1986-07-13,European Southern Observatory
+63816,ES02271   ,Kodak 098-04,OG5(=550),1986-07-13,European Southern Observatory
+63817,ES06575a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1986-07-25,European Southern Observatory
+63818,ES06576a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1986-07-25,European Southern Observatory
+63819,ES06579a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1986-07-26,European Southern Observatory
+63820,ES06580a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1986-07-26,European Southern Observatory
+63821,ES10958   ,Kodak IIa-O,73,1987-05-29,European Southern Observatory
+63822,ES10971   ,Kodak IIa-O,73,1987-05-30,European Southern Observatory
+63825,ES06958a  ,Kodak IIIa-F,RG2(=630),1987-07-29,European Southern Observatory
+63826,ES06962a  ,Kodak IIIa-F,RG2(=630),1987-07-30,European Southern Observatory
+63830,ES07537a  ,Kodak IIa-O,UG1,1988-08-05,European Southern Observatory
+63831,ES07538a  ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1988-08-05,European Southern Observatory
+63839,ES07804   ,Kodak IIIa-F,RG2(=630),1989-01-10,European Southern Observatory
+63840,ES07806   ,Kodak IIIa-F,RG2(=630),1989-01-11,European Southern Observatory
+63841,ES08103a  ,Kodak IIIa-J (hyp.-sens.),RG2(=630),1989-06-10,European Southern Observatory
+63842,ES08113a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1989-07-01,European Southern Observatory
+63843,ES08127a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1989-07-04,European Southern Observatory
+63844,ES08152a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1989-08-05,European Southern Observatory
+63879,ES08770a  ,Kodak 098-04,OG5(=550),1990-10-10,European Southern Observatory
+63880,ES08771a  ,Kodak 098-04,OG5(=550),1990-10-10,European Southern Observatory
+63881,ES08772a  ,Kodak 098-04,OG5(=550),1990-10-11,European Southern Observatory
+63882,ES08773a  ,Kodak 098-04,OG5(=550),1990-10-11,European Southern Observatory
+63883,ES08778a  ,Kodak 098-04,OG5(=550),1990-10-12,European Southern Observatory
+63884,ES08786a  ,Kodak 098-04,OG5(=550),1990-10-14,European Southern Observatory
+63885,ES08796a  ,Kodak 098-04,OG5(=550),1990-10-16,European Southern Observatory
+63886,ES08797a  ,Kodak 098-04,OG5(=550),1990-10-16,European Southern Observatory
+63887,ES08806a  ,Kodak 098-04,OG5(=550),1990-10-17,European Southern Observatory
+63888,ES08847a  ,Kodak 098-04,OG5(=550),1990-11-10,European Southern Observatory
+63889,ES08897a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1990-11-24,European Southern Observatory
+63890,ES08898a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1990-11-24,European Southern Observatory
+63891,ES08899a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1990-11-24,European Southern Observatory
+63892,ES08900a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1990-11-24,European Southern Observatory
+63893,ES08901a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1990-11-25,European Southern Observatory
+63894,ES08902a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1990-11-25,European Southern Observatory
+63895,ES08903a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1990-11-26,European Southern Observatory
+63896,ES08904a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1990-11-26,European Southern Observatory
+63897,ES08905a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1990-12-09,European Southern Observatory
+63898,ES08906a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1990-12-09,European Southern Observatory
+63899,ES08920a  ,Kodak 098-04,OG5(=550),1990-12-13,European Southern Observatory
+63900,ES08921a  ,Kodak 098-04,OG5(=550),1990-12-13,European Southern Observatory
+63901,ES08933a  ,Kodak 098-04,OG5(=550),1990-12-18,European Southern Observatory
+63902,ES08937a  ,Kodak 098-04,OG5(=550),1990-12-19,European Southern Observatory
+63903,ES08938a  ,Kodak 098-04,OG5(=550),1990-12-19,European Southern Observatory
+63904,ES08940a  ,Kodak 098-04,OG5(=550),1990-12-20,European Southern Observatory
+63905,ES08941a  ,Kodak 098-04,OG5(=550),1990-12-20,European Southern Observatory
+63906,ES08944a  ,Kodak 098-04,OG5(=550),1990-12-21,European Southern Observatory
+63907,ES08945a  ,Kodak 098-04,OG5(=550),1990-12-21,European Southern Observatory
+63908,ES08958a  ,Kodak 098-04,OG5(=550),1991-01-13,European Southern Observatory
+63909,ES08963a  ,Kodak 098-04,OG5(=550),1991-01-14,European Southern Observatory
+63910,ES08972a  ,Kodak 098-04,OG5(=550),1991-01-16,European Southern Observatory
+63911,ES08973a  ,Kodak 098-04,OG5(=550),1991-01-16,European Southern Observatory
+63912,ES08977a  ,Kodak 098-04,OG5(=550),1991-01-17,European Southern Observatory
+63913,ES08978a  ,Kodak 098-04,OG5(=550),1991-01-17,European Southern Observatory
+63914,ES08979a  ,Kodak 098-04,OG5(=550),1991-01-17,European Southern Observatory
+63915,ES08982a  ,Kodak 098-04,OG5(=550),1991-01-18,European Southern Observatory
+63916,ES08983a  ,Kodak 098-04,OG5(=550),1991-01-18,European Southern Observatory
+63917,ES08984a  ,Kodak 098-04,OG5(=550),1991-01-18,European Southern Observatory
+63918,ES08985a  ,Kodak 098-04,OG5(=550),1991-01-19,European Southern Observatory
+63919,ES08986a  ,Kodak 098-04,OG5(=550),1991-01-19,European Southern Observatory
+63920,ES08987a  ,Kodak 098-04,OG5(=550),1991-01-19,European Southern Observatory
+63921,ES08988a  ,Kodak 098-04,OG5(=550),1991-01-19,European Southern Observatory
+63922,ES08989a  ,Kodak 098-04,OG5(=550),1991-01-20,European Southern Observatory
+63923,ES08990a  ,Kodak 098-04,OG5(=550),1991-01-20,European Southern Observatory
+63924,ES08994a  ,Kodak 098-04,OG5(=550),1991-01-21,European Southern Observatory
+63925,ES08995a  ,Kodak 098-04,OG5(=550),1991-01-21,European Southern Observatory
+63926,ES09000a  ,Kodak 098-04,OG5(=550),1991-01-23,European Southern Observatory
+63927,ES09002a  ,Kodak 098-04,OG5(=550),1991-01-24,European Southern Observatory
+63928,ES09018a  ,Kodak 098-04,OG5(=550),1991-02-06,European Southern Observatory
+63929,ES09025a  ,Kodak 098-04,OG5(=550),1991-02-08,European Southern Observatory
+63930,ES09026a  ,Kodak 098-04,OG5(=550),1991-02-08,European Southern Observatory
+63931,ES09031a  ,Kodak 098-04,OG5(=550),1991-02-09,European Southern Observatory
+63932,ES09041a  ,Kodak 098-04,OG5(=550),1991-02-11,European Southern Observatory
+63933,ES09042a  ,Kodak 098-04,OG5(=550),1991-02-11,European Southern Observatory
+63934,ES09047a  ,Kodak 098-04,OG5(=550),1991-02-12,European Southern Observatory
+63935,ES09048a  ,Kodak 098-04,OG5(=550),1991-02-12,European Southern Observatory
+63936,ES09056a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-14,European Southern Observatory
+63937,ES09057a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-14,European Southern Observatory
+63938,ES09060a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-14,European Southern Observatory
+63939,ES09061a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-14,European Southern Observatory
+63940,ES09062a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-15,European Southern Observatory
+63941,ES09065a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-15,European Southern Observatory
+63942,ES09066a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-15,European Southern Observatory
+63943,ES09067a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-15,European Southern Observatory
+63944,ES09068a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-16,European Southern Observatory
+63945,ES09072a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-16,European Southern Observatory
+63947,ES09077a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-17,European Southern Observatory
+63948,ES09078a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-17,European Southern Observatory
+63950,ES09082a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-18,European Southern Observatory
+63951,ES09083a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-18,European Southern Observatory
+63953,ES09086a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-19,European Southern Observatory
+63955,ES09089a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1991-02-20,European Southern Observatory
+63958,ES09093a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1991-02-21,European Southern Observatory
+63959,ES09096a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-21,European Southern Observatory
+63960,ES09097a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-02-21,European Southern Observatory
+63963,ES09100a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1991-02-22,European Southern Observatory
+63964,ES09102a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1991-02-25,European Southern Observatory
+63965,ES09103a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1991-02-25,European Southern Observatory
+63966,ES09106a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1991-03-05,European Southern Observatory
+63967,ES09107a  ,Kodak IV N   (hyp.-sens.),RG2(=630),1991-03-05,European Southern Observatory
+63969,ES09115a  ,Kodak IV N   (hyp.-sens.),OG5(=550),1991-03-10,European Southern Observatory
+63970,ES09117a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-03-10,European Southern Observatory
+63972,ES09122a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-03-11,European Southern Observatory
+63973,ES09123a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-03-11,European Southern Observatory
+63975,ES09126a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-03-12,European Southern Observatory
+63976,ES09127a  ,Kodak IIIa-F (hyp.-sens.),OG5(=550),1991-03-12,European Southern Observatory
+64009,ES09179a  ,Kodak 098-04,OG5(=550),1991-04-09,European Southern Observatory
+64010,ES09185a  ,Kodak 098-04,OG5(=550),1991-04-10,European Southern Observatory
+64011,ES09186a  ,Kodak 098-04,OG5(=550),1991-04-10,European Southern Observatory
+64012,ES09187a  ,Kodak 098-04,OG5(=550),1991-04-10,European Southern Observatory
+64022,ES09189a  ,Kodak 098-04,OG5(=550),1991-04-11,European Southern Observatory
+64023,ES09190a  ,Kodak 098-04,OG5(=550),1991-04-11,European Southern Observatory
+64027,ES09191a  ,Kodak 098-04,OG5(=550),1991-04-12,European Southern Observatory
+64028,ES09192a  ,Kodak 098-04,OG5(=550),1991-04-12,European Southern Observatory
+64029,ES09195a  ,Kodak 098-04,OG5(=550),1991-04-12,European Southern Observatory
+64030,ES09196a  ,Kodak 098-04,OG5(=550),1991-04-12,European Southern Observatory
+64031,ES09198a  ,Kodak 098-04,OG5(=550),1991-04-13,European Southern Observatory
+64032,ES09199a  ,Kodak 098-04,OG5(=550),1991-04-13,European Southern Observatory
+64033,ES09200a  ,Kodak 098-04,OG5(=550),1991-04-13,European Southern Observatory
+64034,ES09201a  ,Kodak 098-04,OG5(=550),1991-04-13,European Southern Observatory
+64035,ES09202a  ,Kodak 098-04,OG5(=550),1991-04-13,European Southern Observatory
+64049,ES09204a  ,Kodak 098-04,OG5(=550),1991-04-16,European Southern Observatory
+64054,ES09211a  ,Kodak 098-04,OG5(=550),1991-04-17,European Southern Observatory
+64077,ES09244a  ,Kodak 098-04,OG5(=550),1991-05-02,European Southern Observatory
+64078,ES09247a  ,Kodak 098-04,OG5(=550),1991-05-05,European Southern Observatory
+64079,ES09248a  ,Kodak 098-04,OG5(=550),1991-05-05,European Southern Observatory
+64080,ES09252a  ,Kodak 098-04,OG5(=550),1991-05-06,European Southern Observatory
+64081,ES09253a  ,Kodak 098-04,OG5(=550),1991-05-07,European Southern Observatory
+64082,ES09255a  ,Kodak 098-04,OG5(=550),1991-05-07,European Southern Observatory
+64083,ES09256a  ,Kodak 098-04,OG5(=550),1991-05-07,European Southern Observatory
+64084,ES09257a  ,Kodak 098-04,OG5(=550),1991-05-08,European Southern Observatory
+64085,ES09258a  ,Kodak 098-04,OG5(=550),1991-05-09,European Southern Observatory
+64086,ES09259a  ,Kodak 098-04,OG5(=550),1991-05-11,European Southern Observatory
+64087,ES09260a  ,Kodak 098-04,OG5(=550),1991-05-11,European Southern Observatory
+64088,ES09264a  ,Kodak 098-04,OG5(=550),1991-05-12,European Southern Observatory
+64089,ES09265a  ,Kodak 098-04,OG5(=550),1991-05-12,European Southern Observatory
+64090,ES09266a  ,Kodak 098-04,OG5(=550),1991-05-12,European Southern Observatory
+64091,ES09267a  ,Kodak 098-04,OG5(=550),1991-05-12,European Southern Observatory
+64092,ES09269a  ,Kodak 098-04,OG5(=550),1991-05-12,European Southern Observatory
+64093,ES09270a  ,Kodak 098-04,OG5(=550),1991-05-12,European Southern Observatory
+64094,ES09271a  ,Kodak 098-04,OG5(=550),1991-05-12,European Southern Observatory
+64095,ES09289a  ,Kodak 098-04,OG5(=550),1991-05-21,European Southern Observatory
+64096,ES09290a  ,Kodak 098-04,OG5(=550),1991-05-21,European Southern Observatory
+64097,ES09291a  ,Kodak 098-04,OG5(=550),1991-05-23,European Southern Observatory
+64098,ES09292a  ,Kodak 098-04,OG5(=550),1991-06-04,European Southern Observatory
+64099,ES09296a  ,Kodak 098-04,OG5(=550),1991-06-07,European Southern Observatory
+64100,ES09297a  ,Kodak 098-04,OG5(=550),1991-06-07,European Southern Observatory
+64101,ES09301a  ,Kodak 098-04,OG5(=550),1991-06-07,European Southern Observatory
+64102,ES09302a  ,Kodak 098-04,OG5(=550),1991-06-07,European Southern Observatory
+64103,ES09303a  ,Kodak 098-04,OG5(=550),1991-06-08,European Southern Observatory
+64104,ES09304a  ,Kodak 098-04,OG5(=550),1991-06-08,European Southern Observatory
+64105,ES09305a  ,Kodak 098-04,OG5(=550),1991-06-08,European Southern Observatory
+64106,ES09308a  ,Kodak 098-04,OG5(=550),1991-06-09,European Southern Observatory
+64107,ES09309a  ,Kodak 098-04,OG5(=550),1991-06-09,European Southern Observatory
+64108,ES09310a  ,Kodak 098-04,OG5(=550),1991-06-09,European Southern Observatory
+64109,ES09311a  ,Kodak 098-04,OG5(=550),1991-06-10,European Southern Observatory
+64110,ES09312a  ,Kodak 098-04,OG5(=550),1991-06-10,European Southern Observatory
+64111,ES09313a  ,Kodak 098-04,OG5(=550),1991-06-10,European Southern Observatory
+64112,ES09317a  ,Kodak 098-04,OG5(=550),1991-06-12,European Southern Observatory
+64113,ES09318a  ,Kodak 098-04,OG5(=550),1991-06-12,European Southern Observatory
+64114,ES09320a  ,Kodak 098-04,OG5(=550),1991-07-01,European Southern Observatory
+64115,ES09321a  ,Kodak 098-04,OG5(=550),1991-07-01,European Southern Observatory
+64116,ES09324a  ,Kodak 098-04,OG5(=550),1991-07-02,European Southern Observatory
+64117,ES09325a  ,Kodak 098-04,OG5(=550),1991-07-02,European Southern Observatory
+64118,ES09327a  ,Kodak 098-04,OG5(=550),1991-07-03,European Southern Observatory
+64119,ES09328a  ,Kodak 098-04,OG5(=550),1991-07-03,European Southern Observatory
+64120,ES09329a  ,Kodak 098-04,OG5(=550),1991-07-03,European Southern Observatory
+64121,ES09331a  ,Kodak 098-04,OG5(=550),1991-07-03,European Southern Observatory
+64122,ES09333a  ,Kodak 098-04,OG5(=550),1991-07-04,European Southern Observatory
+64123,ES09334a  ,Kodak 098-04,OG5(=550),1991-07-04,European Southern Observatory
+64124,ES09335a  ,Kodak 098-04,OG5(=550),1991-07-04,European Southern Observatory
+64125,ES09336a  ,Kodak 098-04,OG5(=550),1991-07-05,European Southern Observatory
+64126,ES09337a  ,Kodak 098-04,OG5(=550),1991-07-05,European Southern Observatory
+64127,ES09338a  ,Kodak 098-04,OG5(=550),1991-07-05,European Southern Observatory
+64128,ES09342a  ,Kodak 098-04,OG5(=550),1991-07-05,European Southern Observatory
+64129,ES09344a  ,Kodak 098-04,OG5(=550),1991-07-07,European Southern Observatory
+64130,ES09345a  ,Kodak 098-04,OG5(=550),1991-07-07,European Southern Observatory
+64131,ES09357a  ,Kodak 098-04,OG5(=550),1991-07-10,European Southern Observatory
+64132,ES09358a  ,Kodak 098-04,OG5(=550),1991-07-10,European Southern Observatory
+64133,ES09371a  ,Kodak 098-04,OG5(=550),1991-07-31,European Southern Observatory
+64134,ES09374a  ,Kodak 098-04,OG5(=550),1991-08-01,European Southern Observatory
+64135,ES09375a  ,Kodak 098-04,OG5(=550),1991-08-01,European Southern Observatory
+64136,ES09380a  ,Kodak 098-04,OG5(=550),1991-08-02,European Southern Observatory
+64137,ES09383a  ,Kodak 098-04,OG5(=550),1991-08-04,European Southern Observatory
+64138,ES09385a  ,Kodak 098-04,OG5(=550),1991-08-04,European Southern Observatory
+64139,ES09388a  ,Kodak 098-04,OG5(=550),1991-08-05,European Southern Observatory
+64140,ES09390a  ,Kodak 098-04,OG5(=550),1991-08-05,European Southern Observatory
+64141,ES09410a  ,Kodak 098-04,OG5(=550),1991-08-28,European Southern Observatory
+64142,ES09411a  ,Kodak 098-04,OG5(=550),1991-08-28,European Southern Observatory
+64149,ES09436a  ,Kodak 098-04,OG5(=550),1991-09-07,European Southern Observatory
+64150,ES09437a  ,Kodak 098-04,OG5(=550),1991-09-07,European Southern Observatory
+64151,ES09676a  ,Kodak 098-04,OG5(=550),1992-01-01,European Southern Observatory
+64152,ES09682a  ,Kodak 098-04,OG5(=550),1992-01-03,European Southern Observatory
+64153,ES09683a  ,Kodak 098-04,OG5(=550),1992-01-03,European Southern Observatory
+64154,ES09686a  ,Kodak 098-04,OG5(=550),1992-01-04,European Southern Observatory
+64155,ES09690a  ,Kodak 098-04,OG5(=550),1992-01-05,European Southern Observatory
+64156,ES09691a  ,Kodak 098-04,OG5(=550),1992-01-05,European Southern Observatory
+64157,ES09696a  ,Kodak 098-04,OG5(=550),1992-01-06,European Southern Observatory
+64158,ES09697a  ,Kodak 098-04,OG5(=550),1992-01-06,European Southern Observatory
+64159,ES09701a  ,Kodak 098-04,OG5(=550),1992-01-07,European Southern Observatory
+64160,ES09702a  ,Kodak 098-04,OG5(=550),1992-01-07,European Southern Observatory
+64161,ES09706a  ,Kodak 098-04,OG5(=550),1992-01-08,European Southern Observatory
+64162,ES09707a  ,Kodak 098-04,OG5(=550),1992-01-08,European Southern Observatory
+64163,ES09711a  ,Kodak 098-04,OG5(=550),1992-01-09,European Southern Observatory
+64164,ES09712a  ,Kodak 098-04,OG5(=550),1992-01-09,European Southern Observatory
+64165,ES09718a  ,Kodak 098-04,OG5(=550),1992-01-11,European Southern Observatory
+64166,ES09719a  ,Kodak 098-04,OG5(=550),1992-01-11,European Southern Observatory
+64167,ES09720a  ,Kodak 098-04,OG5(=550),1992-01-11,European Southern Observatory
+64168,ES09730a  ,Kodak 098-04,OG5(=550),1992-01-25,European Southern Observatory
+64169,ES09744a  ,Kodak 098-04,OG5(=550),1992-01-30,European Southern Observatory
+64170,ES09748a  ,Kodak 098-04,OG5(=550),1992-01-31,European Southern Observatory
+64171,ES09749a  ,Kodak 098-04,OG5(=550),1992-01-31,European Southern Observatory
+64172,ES09756a  ,Kodak 098-04,OG5(=550),1992-02-01,European Southern Observatory
+64175,ES09765a  ,Kodak 098-04,OG5(=550),1992-02-03,European Southern Observatory
+64176,ES09769a  ,Kodak 098-04,OG5(=550),1992-02-04,European Southern Observatory
+64177,ES09770a  ,Kodak 098-04,OG5(=550),1992-02-04,European Southern Observatory
+64178,ES09771a  ,Kodak 098-04,OG5(=550),1992-02-04,European Southern Observatory
+64179,ES09776a  ,Kodak 098-04,OG5(=550),1992-02-05,European Southern Observatory
+64180,ES09777a  ,Kodak 098-04,OG5(=550),1992-02-05,European Southern Observatory
+64181,ES09778a  ,Kodak 098-04,OG5(=550),1992-02-05,European Southern Observatory
+64182,ES09787a  ,Kodak 098-04,OG5(=550),1992-02-07,European Southern Observatory
+64184,ES09821a  ,Kodak 098-04,OG5(=550),1992-02-24,European Southern Observatory
+64185,ES09861a  ,Kodak 098-04,OG5(=550),1992-03-04,European Southern Observatory
+64216,ES09862a  ,Kodak 098-04,OG5(=550),1992-03-04,European Southern Observatory
+64217,ES09867a  ,Kodak 098-04,OG5(=550),1992-03-05,European Southern Observatory
+64218,ES09868a  ,Kodak 098-04,OG5(=550),1992-03-05,European Southern Observatory
+64219,ES09877a  ,Kodak 098-04,OG5(=550),1992-03-07,European Southern Observatory
+64220,ES09883a  ,Kodak 098-04,OG5(=550),1992-03-08,European Southern Observatory
+64221,ES09884a  ,Kodak 098-04,OG5(=550),1992-03-08,European Southern Observatory
+64222,ES09944a  ,Kodak 098-04,OG5(=550),1992-04-07,European Southern Observatory
+64223,ES09946a  ,Kodak 098-04,OG5(=550),1992-04-07,European Southern Observatory
+64224,ES09947a  ,Kodak 098-04,OG5(=550),1992-04-07,European Southern Observatory
+64225,ES09948a  ,Kodak 098-04,OG5(=550),1992-04-07,European Southern Observatory
+64229,ES09958a  ,Kodak 098-04,OG5(=550),1992-04-13,European Southern Observatory
+64230,ES09978a  ,Kodak 098-04,OG5(=550),1992-05-01,European Southern Observatory
+64231,ES09981a  ,Kodak 098-04,OG5(=550),1992-05-02,European Southern Observatory
+64232,ES09982a  ,Kodak 098-04,OG5(=550),1992-05-02,European Southern Observatory
+64235,ES09991a  ,Kodak 098-04,OG5(=550),1992-05-09,European Southern Observatory
+64236,ES09993a  ,Kodak 098-04,OG5(=550),1992-05-09,European Southern Observatory
+64237,ES09995a  ,Kodak 098-04,OG5(=550),1992-05-10,European Southern Observatory
+64238,ES10007a  ,Kodak 098-04,OG5(=550),1992-05-21,European Southern Observatory
+64239,ES10008a  ,Kodak 098-04,OG5(=550),1992-05-21,European Southern Observatory
+64241,ES10019a  ,Kodak 098-04,OG5(=550),1992-06-02,European Southern Observatory
+64242,ES10025a  ,Kodak 098-04,OG5(=550),1992-06-03,European Southern Observatory
+64243,ES10026   ,Kodak 098-04,OG5(=550),1992-06-03,European Southern Observatory
+64249,ES10062a  ,Kodak 098-04,OG5(=550),1992-07-21,European Southern Observatory
+64250,ES10035a  ,Kodak 098-04,OG5(=550),1992-07-23,European Southern Observatory
+64251,ES10063a  ,Kodak 098-04,OG5(=550),1992-07-23,European Southern Observatory
+64252,ES10064a  ,Kodak 098-04,OG5(=550),1992-07-23,European Southern Observatory
+64253,ES10037a  ,Kodak 098-04,OG5(=550),1992-07-24,European Southern Observatory
+64254,ES10038a  ,Kodak 098-04,OG5(=550),1992-07-24,European Southern Observatory
+64255,ES10069a  ,Kodak 098-04,OG5(=550),1992-07-25,European Southern Observatory
+64256,ES10073a  ,Kodak 098-04,OG5(=550),1992-07-25,European Southern Observatory
+64257,ES10076a  ,Kodak 098-04,OG5(=550),1992-07-26,European Southern Observatory
+64258,ES10078a  ,Kodak 098-04,OG5(=550),1992-07-26,European Southern Observatory
+64259,ES10079   ,Kodak 098-04,OG5(=550),1992-07-26,European Southern Observatory
+64260,ES10080a  ,Kodak 098-04,OG5(=550),1992-07-26,European Southern Observatory
+64261,ES10081a  ,Kodak 098-04,OG5(=550),1992-07-29,European Southern Observatory
+64262,ES10082a  ,Kodak 098-04,OG5(=550),1992-07-29,European Southern Observatory
+64263,ES10086a  ,Kodak 098-04,OG5(=550),1992-07-29,European Southern Observatory
+64264,ES10087a  ,Kodak 098-04,OG5(=550),1992-07-30,European Southern Observatory
+64275,ES10106a  ,Kodak 098-04,OG5(=550),1992-08-18,European Southern Observatory
+64276,ES10110a  ,Kodak 098-04,OG5(=550),1992-08-19,European Southern Observatory
+64277,ES10117a  ,Kodak 098-04,OG5(=550),1992-08-20,European Southern Observatory
+64278,ES10122a  ,Kodak 098-04,OG5(=550),1992-08-22,European Southern Observatory
+64279,ES10123a  ,Kodak 098-04,OG5(=550),1992-08-22,European Southern Observatory
+64280,ES10124a  ,Kodak 098-04,OG5(=550),1992-08-22,European Southern Observatory
+64281,ES10128a  ,Kodak 098-04,OG5(=550),1992-08-23,European Southern Observatory
+64282,ES10131   ,Kodak 098-04,OG5(=550),1992-08-23,European Southern Observatory
+64283,ES10136a  ,Kodak 098-04,OG5(=550),1992-08-24,European Southern Observatory
+64284,ES10183a  ,Kodak 098-04,OG5(=550),1992-09-20,European Southern Observatory
+64285,ES10190a  ,Kodak 098-04,OG5(=550),1992-09-21,European Southern Observatory
+64286,ES10197a  ,Kodak 098-04,OG5(=550),1992-09-22,European Southern Observatory
+64287,ES10210a  ,Kodak 098-04,OG5(=550),1992-09-24,European Southern Observatory
+64288,ES10218a  ,Kodak 098-04,OG5(=550),1992-09-25,European Southern Observatory
+64289,ES10227a  ,Kodak 098-04,OG5(=550),1992-09-26,European Southern Observatory
+64290,ES10242a  ,Kodak 098-04,OG5(=550),1992-09-28,European Southern Observatory
+64291,ES10309a  ,Kodak 098-04,OG5(=550),1992-10-29,European Southern Observatory
+64292,ES10322a  ,Kodak 098-04,OG5(=550),1992-11-01,European Southern Observatory
+64293,ES10326a  ,Kodak 098-04,OG5(=550),1992-11-02,European Southern Observatory
+64294,ES10347a  ,Kodak 098-04,OG5(=550),1992-11-19,European Southern Observatory
+64295,ES10348a  ,Kodak 098-04,OG5(=550),1992-11-19,European Southern Observatory
+64296,ES10356a  ,Kodak 098-04,OG5(=550),1992-11-23,European Southern Observatory
+64297,ES10357a  ,Kodak 098-04,OG5(=550),1992-11-23,European Southern Observatory
+64298,ES10358a  ,Kodak 098-04,OG5(=550),1992-11-23,European Southern Observatory
+64299,ES10363a  ,Kodak 098-04,OG5(=550),1992-11-26,European Southern Observatory
+64300,ES10364a  ,Kodak 098-04,OG5(=550),1992-11-26,European Southern Observatory
+64301,ES10369a  ,Kodak 098-04,OG5(=550),1992-11-28,European Southern Observatory
+64302,ES10372a  ,Kodak 098-04,OG5(=550),1992-11-28,European Southern Observatory
+64303,ES10375a  ,Kodak 098-04,OG5(=550),1992-11-29,European Southern Observatory
+64304,ES10377a  ,Kodak 098-04,OG5(=550),1992-11-30,European Southern Observatory
+64305,ES10378a  ,Kodak 098-04,OG5(=550),1992-11-30,European Southern Observatory
+64306,ES10380a  ,Kodak 098-04,OG5(=550),1992-12-01,European Southern Observatory
+64307,ES10381a  ,Kodak 098-04,OG5(=550),1992-12-01,European Southern Observatory
+64308,ES10384a  ,Kodak 098-04,OG5(=550),1992-12-03,European Southern Observatory
+64309,ES10385a  ,Kodak 098-04,OG5(=550),1992-12-03,European Southern Observatory
+64310,ES10386a  ,Kodak 098-04,OG5(=550),1992-12-04,European Southern Observatory
+64311,ES10387a  ,Kodak 098-04,OG5(=550),1992-12-04,European Southern Observatory
+64313,ES10405a  ,Kodak 098-04,OG5(=550),1992-12-18,European Southern Observatory
+64314,ES10406a  ,Kodak 098-04,OG5(=550),1992-12-18,European Southern Observatory
+64339,ES10575a  ,Kodak 098-04,OG5(=550),1993-03-13,European Southern Observatory
+64340,ES10578a  ,Kodak 098-04,OG5(=550),1993-05-14,European Southern Observatory
+64341,ES10581a  ,Kodak 098-04,OG5(=550),1993-05-15,European Southern Observatory
+64342,ES10582a  ,Kodak 098-04,OG5(=550),1993-05-15,European Southern Observatory
+64343,ES10583a  ,Kodak 098-04,OG5(=550),1993-05-15,European Southern Observatory
+64344,ES10591a  ,Kodak 098-04,OG5(=550),1993-05-17,European Southern Observatory
+64345,ES10606a  ,Kodak 098-04,OG5(=550),1993-05-24,European Southern Observatory
+64346,ES10612a  ,Kodak 098-04,OG5(=550),1993-05-25,European Southern Observatory
+64347,ES10615a  ,Kodak 098-04,OG5(=550),1993-05-26,European Southern Observatory
+64348,ES10625a  ,Kodak 098-04,OG5(=550),1993-06-19,European Southern Observatory
+64349,ES10631a  ,Kodak 098-04,OG5(=550),1993-06-19,European Southern Observatory
+64350,ES10632a  ,Kodak 098-04,OG5(=550),1993-06-20,European Southern Observatory
+64351,ES10641a  ,Kodak 098-04,OG5(=550),1993-06-24,European Southern Observatory
+64352,ES10642a  ,Kodak 098-04,OG5(=550),1993-06-24,European Southern Observatory
+64353,ES10643a  ,Kodak 098-04,OG5(=550),1993-06-24,European Southern Observatory
+64354,ES10645a  ,Kodak 098-04,OG5(=550),1993-06-27,European Southern Observatory
+64355,ES10696a  ,Kodak 098-04,OG5(=550),1993-07-25,European Southern Observatory
+64356,ES10646a  ,Kodak 098-04,OG5(=550),1993-06-28,European Southern Observatory
+64540,ES11680a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1995-03-31,European Southern Observatory
+64541,ES11681a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1995-03-31,European Southern Observatory
+64544,ES11686a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1995-04-01,European Southern Observatory
+64547,ES11690a  ,Kodak IIIa-F,RG2(=630),1995-04-02,European Southern Observatory
+64549,ES11693a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1995-04-03,European Southern Observatory
+64550,ES11901a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1995-07-31,European Southern Observatory
+64551,ES11902a  ,Kodak IIIa-F,RG2(=630),1995-07-31,European Southern Observatory
+64559,ES12028a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1995-10-13,European Southern Observatory
+64561,ES12030a  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1995-10-14,European Southern Observatory
+64705,ES13183b  ,Kodak IIIa-J (hyp.-sens.),GG7(=475),1997-05-08,European Southern Observatory
+64713,ES13419a  ,Kodak IIIa-J (hyp.-sens.),GG7(=475),1998-03-24,European Southern Observatory
+64714,ES13423a  ,Kodak IIIa-J (hyp.-sens.),GG7(=475),1998-03-24,European Southern Observatory
+64719,ES13436a  ,Kodak IIIa-J (hyp.-sens.),GG7(=475),1998-03-29,European Southern Observatory
+64723,ES13474a  ,Kodak IIIa-J (hyp.-sens.),GG7(=475),1998-05-02,European Southern Observatory
+64724,ES13475a  ,Kodak IIIa-J (hyp.-sens.),GG7(=475),1998-05-03,European Southern Observatory
+64725,ES13477a  ,Kodak IIIa-J (hyp.-sens.),GG7(=475),1998-05-19,European Southern Observatory
+64726,ES13480a  ,Kodak IIIa-J (hyp.-sens.),GG7(=475),1998-05-28,European Southern Observatory
+74945,ESF1523c  ,Kodak IIa-O (hyp.-sens.),GG13(=385),1974-01-24,European Southern Observatory
+74946,ESF1523C  ,Kodak IIa-O (hyp.-sens.),GG13(=385),1974-01-24,European Southern Observatory
+75234,ESP0374   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-13,European Southern Observatory
+75235,ESP0392   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-14,European Southern Observatory
+75236,ESP0395   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-02-14,European Southern Observatory
+75237,ESP0424   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1977-02-15,European Southern Observatory
+75238,ESP0425   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-15,European Southern Observatory
+75239,ESP0426   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-02-15,European Southern Observatory
+75240,ESP0427   ,Kodak 127-04 (hyp.sens.),UG1,1977-02-15,European Southern Observatory
+75241,ESP0429   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-02-15,European Southern Observatory
+75242,ESP0430   ,Kodak 127-04 (hyp.sens.),UG1,1977-02-15,European Southern Observatory
+75243,ESP0448   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1977-02-16,European Southern Observatory
+75244,ESP0449   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-16,European Southern Observatory
+75245,ESP0450   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-02-16,European Southern Observatory
+75246,ESP0452   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1977-02-16,European Southern Observatory
+75247,ESP0453   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1977-02-16,European Southern Observatory
+75248,ESP0454   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-02-16,European Southern Observatory
+75249,ESP0455   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-16,European Southern Observatory
+75250,ESP0456   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-16,European Southern Observatory
+75251,ESP0457   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-16,European Southern Observatory
+75252,ESP0458   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-16,European Southern Observatory
+75253,ESP0462   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-16,European Southern Observatory
+75254,ESP0463   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1977-02-16,European Southern Observatory
+75255,ESP0464   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-17,European Southern Observatory
+75256,ESP0465   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-02-17,European Southern Observatory
+75257,ESP0466   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-17,European Southern Observatory
+75258,ESP0467   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-17,European Southern Observatory
+75259,ESP0468   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-17,European Southern Observatory
+75260,ESP0469   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-17,European Southern Observatory
+75261,ESP0470   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-02-17,European Southern Observatory
+75262,ESP0471   ,Kodak IIIa-J,GG14(=495),1977-02-17,European Southern Observatory
+75263,ESP0475   ,Kodak IIIa-J (hyp.-sens.),RG2(=630),1977-02-17,European Southern Observatory
+75264,ESP0478   ,Kodak IIIa-J (hyp.-sens.),RG2(=630),1977-02-17,European Southern Observatory
+75265,ESP0481   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-02-17,European Southern Observatory
+75280,ESP0874   ,Kodak 098-02 (hyp.-sens.),H-alpha,1977-03-02,European Southern Observatory
+75281,ESP0486   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-03-09,European Southern Observatory
+75282,ESP0487   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-03-09,European Southern Observatory
+75283,ESP0488   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-09,European Southern Observatory
+75284,ESP0489   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-09,European Southern Observatory
+75285,ESP0490   ,Kodak IIIa-J (hyp.-sens.),GG14(=495),1977-03-09,European Southern Observatory
+75286,ESP0491   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-09,European Southern Observatory
+75287,ESP0493   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-09,European Southern Observatory
+75288,ESPIT64   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1977-03-09,European Southern Observatory
+75289,ESP0521   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-11,European Southern Observatory
+75290,ESP0538   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-03-12,European Southern Observatory
+75291,ESP0545   ,Kodak 127-04 (hyp.sens.),PFG 13C (Halpha),1977-03-12,European Southern Observatory
+75292,ESP0546   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-12,European Southern Observatory
+75293,ESP0547   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-03-13,European Southern Observatory
+75294,ESP0548   ,Kodak 127-04 (hyp.sens.),RG2(=630),1977-03-13,European Southern Observatory
+75295,ESP0557   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-14,European Southern Observatory
+75296,ESP0558   ,Kodak 127-04 (hyp.sens.),PFG 13C (Halpha),1977-03-14,European Southern Observatory
+75297,ESP0578   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-15,European Southern Observatory
+75298,ESP0579   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-15,European Southern Observatory
+75299,ESP0580   ,Kodak IIIa-J (hyp.-sens.),UG1,1977-03-15,European Southern Observatory
+75300,ESP0605   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1977-03-18,European Southern Observatory
+75301,ESP0606   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1977-03-18,European Southern Observatory
+75302,ESP0745c  ,Kodak 127-04 (hyp.sens.),GG13(=385),1977-05-10,European Southern Observatory
+75303,ESP0746c  ,Kodak IIIa-J,GG13(=385),1977-05-12,European Southern Observatory
+75304,ESP0746   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1977-05-12,European Southern Observatory
+75305,ESP0784   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1977-05-16,European Southern Observatory
+75306,ESP0808   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1977-05-19,European Southern Observatory
+75307,ESPIT36   ,Kodak 127-04 (hyp.sens.),H-gamma,1977-06-14,European Southern Observatory
+75388,ESP1318   ,Kodak IIIa-F (hyp.-sens.),UG1,1978-02-23,European Southern Observatory
+75389,ESP1319   ,Kodak 098-02 (hyp.-sens.),RG2(=630),1978-02-23,European Southern Observatory
+75390,ESP1323   ,Kodak IIa-O (hyp.-sens.),Hß (PFG 6a-4858/39),1978-02-23,European Southern Observatory
+75391,ESP1324   ,Kodak IIIa-F (hyp.-sens.),PFG 8A (O III),1978-02-23,European Southern Observatory
+75392,ESP1352   ,Kodak IIIa-F (hyp.-sens.),GG13(=385),1978-02-24,European Southern Observatory
+75393,ESP1353   ,Kodak 098-02 (hyp.-sens.),PFG 13C (Halpha),1978-02-24,European Southern Observatory
+75394,ESP1355   ,Kodak 103a-D,GG14(=495),1978-02-24,European Southern Observatory
+75395,ESP1356   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-02-24,European Southern Observatory
+75396,ESP1357   ,Kodak 098-02 (hyp.-sens.),RG2(=630),1978-02-24,European Southern Observatory
+75397,ESP1359   ,Kodak IV N   (hyp.-sens.),IR - RG715,1978-02-24,European Southern Observatory
+75399,ESP1384   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1978-03-03,European Southern Observatory
+75400,ESP1385   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1978-03-03,European Southern Observatory
+75401,ESP1386   ,Kodak 103a-D (hyp.-sens.),GG14(=495),1978-03-03,European Southern Observatory
+75402,ESP1387   ,Kodak 103a-D (hyp.-sens.),GG14(=495),1978-03-03,European Southern Observatory
+75403,ESP1388   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1978-03-03,European Southern Observatory
+75404,ESP1389   ,Kodak 103a-D (hyp.-sens.),GG14(=495),1978-03-03,European Southern Observatory
+75405,ESP1401   ,Kodak 103a-D (hyp.-sens.),GG13(=385),1978-03-09,European Southern Observatory
+75406,ESP1402   ,Kodak IIIa-J (hyp.-sens.),GG14(=495),1978-03-09,European Southern Observatory
+75407,ESP1403   ,Kodak 103a-D (hyp.-sens.),GG14(=495),1978-03-09,European Southern Observatory
+75408,ESP1404   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1978-03-09,European Southern Observatory
+75409,ESP1405   ,Kodak 103a-D,GG14(=495),1978-03-09,European Southern Observatory
+75410,ESP1434c  ,Kodak IIIa-F,H-alpha,1978-03-11,European Southern Observatory
+75411,ESP1434   ,Kodak IIa-O,GG13(=385),1978-03-11,European Southern Observatory
+75412,ESP1435   ,Kodak IIIa-J,GG13(=385),1978-03-11,European Southern Observatory
+75413,ESP1436   ,Kodak 103a-D,GG14(=495),1978-03-11,European Southern Observatory
+75414,ESP1437   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-03-11,European Southern Observatory
+75420,ESP1491   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75421,ESP1492   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75422,ESP1493   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75423,ESP1494   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-03-30,European Southern Observatory
+75424,ESP1495   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-03-30,European Southern Observatory
+75425,ESP1496   ,Kodak IIIa-F (hyp.-sens.),GG14(=495),1978-03-30,European Southern Observatory
+75426,ESP1497   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75427,ESP1498   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75428,ESP1499   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-03-30,European Southern Observatory
+75429,ESP1500   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75430,ESP1501   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75431,ESP1502   ,Kodak IIIa-J (hyp.-sens.),Hß (PFG 6a-4858/39),1978-03-30,European Southern Observatory
+75432,ESP1503   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75433,ESP1504   ,Kodak IIIa-J (hyp.-sens.),Hß (PFG 6a-4858/39),1978-03-30,European Southern Observatory
+75434,ESP1505   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75435,ESP1506   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75436,ESP1507   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-03-30,European Southern Observatory
+75437,ESP1508   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-03-30,European Southern Observatory
+75438,ESP1509   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-03-30,European Southern Observatory
+75439,ESP1510   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-03-30,European Southern Observatory
+75440,ESP1519c  ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-01,European Southern Observatory
+75441,ESP1519d  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1978-04-01,European Southern Observatory
+75442,ESP1519e  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1978-04-01,European Southern Observatory
+75443,ESP1519f  ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-01,European Southern Observatory
+75444,ESP1519g  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-01,European Southern Observatory
+75445,ESP1519h  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-01,European Southern Observatory
+75446,ESP1519i  ,Kodak IIIa-J (hyp.-sens.),GG14(=495),1978-04-01,European Southern Observatory
+75447,ESP1519   ,Kodak IIIa-J (hyp.-sens.),GG14(=495),1978-04-01,European Southern Observatory
+75448,ESP1520   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-01,European Southern Observatory
+75449,ESP1521   ,Kodak IIIa-J (hyp.-sens.),Hß (PFG 6a-4858/39),1978-04-01,European Southern Observatory
+75450,ESP1522   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-01,European Southern Observatory
+75451,ESP1523   ,Kodak IIIa-J (hyp.-sens.),RG1(=610),1978-04-01,European Southern Observatory
+75452,ESP1524   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-01,European Southern Observatory
+75453,ESP1525   ,Kodak 098-04 (hyp.-sens.),UG1,1978-04-01,European Southern Observatory
+75454,ESP1526   ,Kodak IIIa-J (hyp.-sens.),PFG 4a HeII,1978-04-01,European Southern Observatory
+75455,ESP1527   ,Kodak IIIa-J (hyp.-sens.),PFG 4a HeII,1978-04-01,European Southern Observatory
+75456,ESP1528   ,Kodak IIIa-J (hyp.-sens.),PFG 4a HeII,1978-04-01,European Southern Observatory
+75458,ESP1530   ,Kodak IIIa-J (hyp.-sens.),PFG 4a HeII,1978-04-01,European Southern Observatory
+75459,ESP1531   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1978-04-01,European Southern Observatory
+75460,ESP1532   ,Kodak IIIa-J (hyp.-sens.),Hß (PFG 6a-4858/39),1978-04-01,European Southern Observatory
+75461,ESP1533   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-01,European Southern Observatory
+75462,ESP1534   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-01,European Southern Observatory
+75463,ESP1535   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-01,European Southern Observatory
+75464,ESP1536   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-01,European Southern Observatory
+75465,ESP1537   ,Kodak IIIa-F (hyp.-sens.),PGF 9a HeII,1978-04-01,European Southern Observatory
+75466,ESP1538   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-01,European Southern Observatory
+75467,ESP1539   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-01,European Southern Observatory
+75468,ESP1540   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-01,European Southern Observatory
+75469,ESP1541   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-01,European Southern Observatory
+75470,ESP1542   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-01,European Southern Observatory
+75471,ESP1568c  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1978-04-07,European Southern Observatory
+75472,ESP1568d  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1978-04-07,European Southern Observatory
+75473,ESP1568e  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-07,European Southern Observatory
+75474,ESP1568f  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-07,European Southern Observatory
+75475,ESP1568g  ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-07,European Southern Observatory
+75476,ESP1568h  ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-07,European Southern Observatory
+75477,ESP1568   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1978-04-07,European Southern Observatory
+75478,ESP1569   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-07,European Southern Observatory
+75479,ESP1570   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-07,European Southern Observatory
+75480,ESP1571   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-07,European Southern Observatory
+75481,ESP1572   ,Kodak 103a-D,GG14(=495),1978-04-07,European Southern Observatory
+75482,ESP1573   ,Kodak IIa-O,GG13(=385),1978-04-07,European Southern Observatory
+75483,ESP1574   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1978-04-07,European Southern Observatory
+75484,ESP1575   ,Kodak IIIa-J (hyp.-sens.),PFG 4a HeII,1978-04-07,European Southern Observatory
+75485,ESP1576   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1978-04-07,European Southern Observatory
+75486,ESP1577   ,Kodak IIIa-J (hyp.-sens.),Hß (PFG 6a-4858/39),1978-04-07,European Southern Observatory
+75487,ESP1578   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-07,European Southern Observatory
+75489,ESP1580   ,Kodak IIIa-F (hyp.-sens.),UG1,1978-04-07,European Southern Observatory
+75490,ESP1581   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1978-04-07,European Southern Observatory
+75491,ESP1582   ,Kodak IIIa-J (hyp.-sens.),PFG 4a HeII,1978-04-07,European Southern Observatory
+75492,ESP1583   ,Kodak IIIa-J (hyp.-sens.),PFG 4a HeII,1978-04-07,European Southern Observatory
+75493,ESP1584   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1978-04-07,European Southern Observatory
+75494,ESP1585   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-07,European Southern Observatory
+75495,ESP1586   ,Kodak 103a-D,GG14(=495),1978-04-07,European Southern Observatory
+75496,ESP1587   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-07,European Southern Observatory
+75497,ESP1588   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1978-04-07,European Southern Observatory
+75498,ESP1589   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-07,European Southern Observatory
+75499,ESP1652   ,Kodak IIIa-J (hyp.-sens.),UG1,1978-04-13,European Southern Observatory
+75500,ESP1653   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1978-04-13,European Southern Observatory
+75501,ESP1654   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-13,European Southern Observatory
+75502,ESP1656   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1978-04-13,European Southern Observatory
+75503,ESP1657   ,Kodak 098-02,PFG 4a HeII,1978-04-13,European Southern Observatory
+75504,ESP1676   ,Kodak IIIa-J (hyp.-sens.),RG2(=630),1978-04-15,European Southern Observatory
+75505,ESP1677   ,Kodak IIIa-J (hyp.-sens.),RG2(=630),1978-04-15,European Southern Observatory
+75506,ESP1668   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1978-04-28,European Southern Observatory
+75507,ESP1713   ,Kodak 103a-D (hyp.-sens.),GG14(=495),1978-05-12,European Southern Observatory
+75508,ESP1714   ,Kodak 103a-D (hyp.-sens.),GG14(=495),1978-05-12,European Southern Observatory
+75509,ESP1715   ,Kodak 103a-D (hyp.-sens.),GG14(=495),1978-05-12,European Southern Observatory
+75510,ESP1731   ,Kodak 098-02,RG2(=630),1978-05-16,European Southern Observatory
+75511,ESP1836   ,Kodak 098-04 (hyp.-sens.),RG2(=630),1978-12-21,European Southern Observatory
+75580,ESP2153   ,Kodak 098-04 (hyp.-sens.),GG13(=385),1981-04-29,European Southern Observatory
+75581,ESP2154   ,Kodak 098-04 (hyp.-sens.),GG14(=495),1981-04-29,European Southern Observatory
+75582,ESP2155   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-29,European Southern Observatory
+75583,ESP2156   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-29,European Southern Observatory
+75584,ESP2157   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-29,European Southern Observatory
+75585,ESP2158   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-04-29,European Southern Observatory
+75586,ESP2159   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-04-29,European Southern Observatory
+75587,ESP2160   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-04-29,European Southern Observatory
+75588,ESP2161   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-29,European Southern Observatory
+75589,ESP2162   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-29,European Southern Observatory
+75590,ESP2163   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-29,European Southern Observatory
+75591,ESP2164   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-29,European Southern Observatory
+75592,ESP2165   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-29,European Southern Observatory
+75593,ESP2166   ,,PFG 13C (Halpha),1981-04-29,European Southern Observatory
+75594,ESP2167   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-29,European Southern Observatory
+75595,ESP2168   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-29,European Southern Observatory
+75596,ESP2169   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-29,European Southern Observatory
+75597,ESP2170   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-29,European Southern Observatory
+75598,ESP2171   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-29,European Southern Observatory
+75599,ESP2172   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-29,European Southern Observatory
+75600,ESP2173   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-29,European Southern Observatory
+75601,ESP2174   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-30,European Southern Observatory
+75602,ESP2174a  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-04-30,European Southern Observatory
+75603,ESP2174b  ,Kodak IIIa-J (hyp.-sens.),GG14(=495),1981-04-30,European Southern Observatory
+75604,ESP2174c  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-30,European Southern Observatory
+75605,ESP2174d  ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-04-30,European Southern Observatory
+75606,ESP2175   ,Kodak IIIa-F (hyp.-sens.),PFG 13C (Halpha),1981-04-30,European Southern Observatory
+75607,ESP2176   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-30,European Southern Observatory
+75608,ESP2177   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-30,European Southern Observatory
+75609,ESP2178   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-30,European Southern Observatory
+75610,ESP2179   ,Kodak IIIa-J (hyp.-sens.),RG2(=630),1981-04-30,European Southern Observatory
+75611,ESP2180   ,Kodak IIIa-J (hyp.-sens.),PFG 13C (Halpha),1981-04-30,European Southern Observatory
+75612,ESP2181   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-04-30,European Southern Observatory
+75613,ESP2182   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-04-30,European Southern Observatory
+75614,ESP2183   ,Kodak IIa-O (hyp.-sens.),UG1,1981-04-30,European Southern Observatory
+75615,ESP2184   ,Kodak IIa-O (hyp.-sens.),UG1,1981-04-30,European Southern Observatory
+75616,ESP2185   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-05-01,European Southern Observatory
+75617,ESP2186   ,Kodak 103a-D (hyp.-sens.),GG14(=495),1981-05-01,European Southern Observatory
+75618,ESP2187   ,Kodak 103a-D (hyp.-sens.),GG14(=495),1981-05-01,European Southern Observatory
+75619,ESP2188   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1981-05-01,European Southern Observatory
+75620,ESP2189   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-05-01,European Southern Observatory
+75621,ESP2190   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-05-01,European Southern Observatory
+75622,ESP2191   ,Kodak IIIa-J (hyp.-sens.),GG14(=495),1981-05-01,European Southern Observatory
+75623,ESP2192   ,Kodak IIIa-J (hyp.-sens.),GG14(=495),1981-05-01,European Southern Observatory
+75624,ESP2193   ,Kodak IIIa-J (hyp.-sens.),GG14(=495),1981-05-01,European Southern Observatory
+75625,ESP2194   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-05-01,European Southern Observatory
+75626,ESP2195   ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-05-01,European Southern Observatory
+75627,ESP2196   ,Kodak IIIa-F (hyp.-sens.),RG2(=630),1981-05-01,European Southern Observatory
+75628,ESP2197   ,Kodak IIa-O (hyp.-sens.),UG1,1981-05-01,European Southern Observatory
+75629,ESP2198   ,Kodak 103a-D,GG14(=495),1981-05-01,European Southern Observatory
+75630,ESP2199   ,Kodak IIIa-F (hyp.-sens.),PFG 13C (Halpha),1981-05-01,European Southern Observatory
+75631,ESP2200   ,Kodak IIIa-F (hyp.-sens.),PFG 13C (Halpha),1981-05-01,European Southern Observatory
+75632,ESP2201   ,Kodak IIIa-F (hyp.-sens.),PFG 13C (Halpha),1981-05-01,European Southern Observatory
+75633,ESP2202   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1981-05-01,European Southern Observatory
+75634,ESP2203   ,Kodak IIa-O (hyp.-sens.),UG1,1981-05-01,European Southern Observatory
+75635,ESP2204   ,Kodak IIa-O (hyp.-sens.),GG13(=385),1981-05-01,European Southern Observatory
+75636,ESP2205   ,Kodak IIIa-J (hyp.-sens.),PFG 13C (Halpha),1981-05-01,European Southern Observatory
+75637,ESP2206   ,Kodak IIa-O (hyp.-sens.),UG1,1981-05-01,European Southern Observatory
+75638,ESP2207   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-05-01,European Southern Observatory
+75639,ESP2208   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-05-01,European Southern Observatory
+75640,ESP2209   ,Kodak IIIa-J (hyp.-sens.),PFG 8A (O III),1981-05-01,European Southern Observatory
+75646,ESJ3612C  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-05-06,European Southern Observatory
+75648,ESJ3613C  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1981-05-07,European Southern Observatory
+75652,ESJ4018c  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1983-01-18,European Southern Observatory
+75653,ESJ4018C  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1983-01-18,European Southern Observatory
+75661,ESJ4026c  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1983-01-18,European Southern Observatory
+75662,ESJ4026C  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1983-01-18,European Southern Observatory
+75671,ESJ4034c  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1983-01-20,European Southern Observatory
+75672,ESJ4034C  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1983-01-20,European Southern Observatory
+75679,ESJ4042c  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1983-01-21,European Southern Observatory
+75680,ESJ4042C  ,Kodak IIIa-J (hyp.-sens.),GG13(=385),1983-01-21,European Southern Observatory
