@@ -1,4 +1,4 @@
-MESA MIST tracks are available for any one to download here: [https://waps.cfa.harvard.edu/MIST/interp_tracks.html](https://waps.cfa.harvard.edu/MIST/index.html)
+MESA MIST tracks are available for any one to download here: https://waps.cfa.harvard.edu/MIST/index.html.
 
 ## Basics of MIST Tracks
 MIST tracks are of two types:
