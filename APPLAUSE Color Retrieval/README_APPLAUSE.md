@@ -8,5 +8,6 @@ The .csv files can downloaded from APPLAUSE archive.
 
 ## Instructions to Run The Code
 Combined files and individual files are uploaded in this google drive folder: https://drive.google.com/drive/folders/11U3avUIoD8SukXdUqJwNDFF9ZQ19ys6r?usp=sharing
-1. Download the existing .csv files given in this data folder.
-2. Open the Data_Retrieval.ipynb file and run the code (make adjustments for the location of the file). The notebook is self explanatory.
+1. Download the existing .csv files given in this folder.
+2. For this repository we select a set of GAIA ids from a catelog of post-AGB stars (.csv file also attached).
+3. Open the Data_Retrieval.ipynb file and run the code (make adjustments for the location of the file). The notebook is self explanatory.
