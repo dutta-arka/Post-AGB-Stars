@@ -7,7 +7,10 @@ This set of code does the following: For a given set of GAIA stars,
 The .csv files can downloaded from the APPLAUSE archive.
 
 ## Instructions to Run The Code
-Combined files and individual files are uploaded in this Google Drive folder: https://drive.google.com/drive/folders/11U3avUIoD8SukXdUqJwNDFF9ZQ19ys6r?usp=sharing
-1. Download the existing .csv files given in this folder.
+
+1. Download the existing plate_details.csv files given in this folder. One can download this from the APPLAUSE archive website. See https://doi.org/10.1051/0004-6361/202348793.
 2. For this repository, we select a GAIA ID set from a catalogue of post-AGB stars (.csv file also attached). See https://doi.org/10.1093/mnrasl/slac088.
-3. Open the Data_Retrieval.ipynb file and run the code (adjust the file's location). The notebook is self-explanatory.
+3. Open the Data_processing.ipynb file and run the code (adjust the file's location). The notebook is self-explanatory.
+4. Finally, run the Archive.ipynb file to retrieve the colour data of available stars from the given input of lists of the remaining files. The last step can be avoided by downloading 
+
+After processing of the codes, files are uploaded in this Google Drive folder: https://drive.google.com/drive/folders/11U3avUIoD8SukXdUqJwNDFF9ZQ19ys6r?usp=sharing
