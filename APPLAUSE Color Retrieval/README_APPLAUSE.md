@@ -13,5 +13,6 @@ The .csv files can downloaded from the APPLAUSE archive.
 3. Open the Plate_processing.ipynb file and run the code (adjust the file's location). The notebook is self-explanatory.
 4. Finally, run the Archive.ipynb file to retrieve the colour data of available stars from the given input of lists of the remaining files. The last step can be avoided by downloading 
 
-After processing of the codes, files are uploaded in this Google Drive folder: https://drive.google.com/drive/folders/11U3avUIoD8SukXdUqJwNDFF9ZQ19ys6r?usp=sharing
+After processing of the codes, files are uploaded in this Google Drive folder: https://drive.google.com/drive/folders/11U3avUIoD8SukXdUqJwNDFF9ZQ19ys6r?usp=sharing.
+
 Keep in mind all of these have been done for selectively post-AGB stars. Other target can be run through the same code.
