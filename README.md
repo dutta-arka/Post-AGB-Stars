@@ -1,2 +1,16 @@
 # Stellar-Evolution
-A set of code to find stellar evolution of the stars in the Hertzsprung gap using archive and old photographic plates
+A real time evolution of post-AGB stars using data from old photographic plates.
+
+## ARCHIVE Query
+
+
+## MESA MIST Tracks
+
+
+## Post-AGB Stars
+
+
+## Point of Comparison
+
+
+### Long Term Periodicities in Flux
