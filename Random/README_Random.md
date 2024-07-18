@@ -6,4 +6,4 @@ A few sets of codes were built to do something (and they do) but failed for some
 3. 
 
 
-A few more files that maybe relevent are given in this (google folder)[https://drive.google.com/drive/folders/1r6T4KHjVSkuZH23dH-vMpkkodPgKc0cM?usp=sharing].
+A few more files that maybe relevent are given in this [google folder](https://drive.google.com/drive/folders/1r6T4KHjVSkuZH23dH-vMpkkodPgKc0cM?usp=sharing).
