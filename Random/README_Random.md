@@ -3,7 +3,8 @@ A few sets of codes were built to do something (and they do) but failed for some
 
 1. Random 13. ipynb is an attempt to fit data points of (bp_rp, and G) to the closest matching stellar evolutionary tracks (based on [Fe/H] ratios and interstellar extinction). The MIST tracks can be used in the MESA MIST tracks folder.
 2. Variability.ipynb is a structural code that can be used as a base to understand and look for some variability in a target star. Long-term observations like IRSA and Kepler help. TESS, too, can give some ideas about fluctuations in the stellar flux. However, that will be short-term for most of the stars.
-3. 
+3. Now, the Hertzsprung gap is a place in the HR (or the Colour Magnitude) diagram where the population of a star is the fastest. As we started our project looking into that angle, Random 11.ipynb plots Tracks equivalent to that. One can download these tracks (as in .prt file) from the Google Drive folder.
+4. 
 
 
-A few more files that maybe relevent are given in this [google folder](https://drive.google.com/drive/folders/1r6T4KHjVSkuZH23dH-vMpkkodPgKc0cM?usp=sharing).
+A few more files that maybe relevent are given in this [Google Drive folder](https://drive.google.com/drive/folders/1r6T4KHjVSkuZH23dH-vMpkkodPgKc0cM?usp=sharing).
