@@ -1,4 +1,4 @@
-##A Work-In Progress?
+##A Work-In Progress?##
 
 Here, only the cross-matching of stars from the photographic plate to GAIA DR3 stars has been given. Considering:
 1. Location in the sky by cross-matching and
